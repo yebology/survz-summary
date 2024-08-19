@@ -20,3 +20,5 @@ Say hello to Survz, the ultimate Web3 survey platform! 🌟 With just 5 question
 ## 🚀 Survz Insights : Code, Contracts, and Demo 
 - 💻 dApp : [See the code](https://github.com/yebology/survz-dapp.git)
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/survz-smartcontract.git)
+- 📜 Contract Addresses : [View on Solana Explorer](https://explorer.solana.com/address/7bfa2DiKuMvy6vDxyTjfnvPt62JuQG39XWbPtgJyHwYd?cluster=devnet)
+- 🎥 Demo Video : [Watch the demo](https://drive.google.com/file/d/1KXduh3QadrclN5Hf1rSismYBsuSo_Gb_/view?usp=sharing) 
