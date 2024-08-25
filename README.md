@@ -14,7 +14,6 @@ Say hello to Survz, the ultimate Web3 survey platform! 🌟 With just 5 question
 ## ⚙️ Tech Stack Behind Survz : 
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Anchor
-- ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS
 
 ## 🚀 Survz Insights : Code, Contracts, and Demo 
