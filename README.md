@@ -1,6 +1,6 @@
 # Survz : Turn Question into SOL : Create, Share, Reward 🚀
 ## ✨ Overview
-Say hello to Survz, the ultimate Web3 survey platform! 🌟 With just 5 questions, you can quickly create and share surveys, while participants earn SOL for their responses. 💸 Powered by the Solana blockchain, Survz offers a secure, fast, and decentralized way to gather valuable insights. 🚀📊
+Say hello to Survz, the ultimate Web3 survey platform! 🌟 With just 5 questions, you can quickly create and share surveys, while participants earn SOL for their responses. 💸 Powered by Solana network, Survz offers a secure, fast, and decentralized way to gather valuable insights. 🚀📊
 
 ## 💡 Features
 - 📝 Create Survey
@@ -14,7 +14,7 @@ Say hello to Survz, the ultimate Web3 survey platform! 🌟 With just 5 question
 ## ⚙️ Tech Stack Behind Survz : 
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Anchor (Rust)
-- 🔗 Library : Solana Web3.js
+- 🔗 Library : Solana web3.js
 - 🎨 Styling : TailwindCSS
 
 ## 🚀 Survz Insights : Code, Contracts, and Demo 
