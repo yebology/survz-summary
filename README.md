@@ -11,13 +11,13 @@ Say hello to Survz, the ultimate Web3 survey platform! 🌟 With just 5 question
 - ✅ Fill Survey: Participants complete your survey and earn SOL for their input, giving them a nice incentive to participate. 💸
 - 🔍 Monitoring: Stay on top of your survey’s performance with real-time updates on responses and engagement. ⏱️
 
-## ⚙️ Tech Stack Behind Survz : 
+## ⚙️ Tech Stack Behind Survz
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Anchor (Rust)
 - 🔗 Library : Solana web3.js
 - 🎨 Styling : TailwindCSS
 
-## 🚀 Survz Insights : Code, Contracts, and Demo 
+## 🚀 Survz Insights
 - 💻 dApp : [See the code](https://github.com/yebology/survz-dapp.git)
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/survz-smartcontract.git)
 - 📜 Contract Address : [View on Solana Explorer](https://explorer.solana.com/address/7bfa2DiKuMvy6vDxyTjfnvPt62JuQG39XWbPtgJyHwYd?cluster=devnet)
