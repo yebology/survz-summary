@@ -12,7 +12,7 @@ Say hello to Survz, the ultimate Web3 survey platform! 🌟 With just 5 question
 - 🔍 Monitoring: Stay on top of your survey’s performance with real-time updates on responses and engagement. ⏱️
 
 ## ⚙️ Tech Stack Behind Survz
-- 🖥️ Frontend : ReactTS (Typescript)
+- 🖥️ Frontend : React (Typescript)
 - 🔧 Smart Contract Development : Anchor (Rust)
 - 🔗 Library : Solana web3.js
 - 🎨 Styling : TailwindCSS
